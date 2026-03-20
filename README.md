@@ -1,12 +1,6 @@
-# Payload Website Template
+# Havenly's Public Marketing Website
 
-This is the official [Payload Website Template](https://github.com/payloadcms/payload/blob/main/templates/website). Use it to power websites, blogs, or portfolios from small to enterprise. This repo includes a fully-working backend, enterprise-grade admin panel, and a beautifully designed, production-ready website.
-
-This template is right for you if you are working on:
-
-- A personal or enterprise-grade website, blog, or portfolio
-- A content publishing platform with a fully featured publication workflow
-- Exploring the capabilities of Payload
+This is Havenly's public marketing website, built with Next.js and Payload CMS. It serves as a source of truth for all of our public-facing content and is a great example of how to use Payload to power a production-ready website.
 
 Core features:
 

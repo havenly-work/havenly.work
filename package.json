@@ -1,7 +1,7 @@
 {
   "name": "havenly-work",
   "version": "1.0.0",
-  "description": "Website template for Payload",
+  "description": "havenly.work is Havenly's public marketing website, built with Next.js and Payload CMS.",
   "license": "MIT",
   "type": "module",
   "scripts": {
